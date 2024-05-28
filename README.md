@@ -27,10 +27,19 @@ To get started with the project, follow these steps:
    ```
 
 2. Change directory into the project folder:
+
+```sh
    cd guess-my-profile
 
+```
+
 3. Install dependencies:
+
+```sh
    npm install
+
+
+```
 
 ## Running the Application
 
