@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
    ```
 
 2. Change directory into the project folder:
-   cd guess-info-app
+   cd guess-my-profile
 
 3. Install dependencies:
    npm install
