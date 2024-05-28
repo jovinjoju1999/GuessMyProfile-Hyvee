@@ -37,15 +37,19 @@ To get started with the project, follow these steps:
 
 ```sh
    npm install
-
-
 ```
 
 ## Running the Application
 
 1. To run the application locally, use the following command:
+
+```sh
    npm run dev
-   This will start the development server. Open your browser and navigate to http://localhost:3000 to see the app in action.
+```
+
+This will start the development server.
+
+2. Open your browser and navigate to http://localhost:3000 to see the app in action.
 
 ## Usage
 
